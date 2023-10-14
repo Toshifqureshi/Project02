@@ -99,6 +99,8 @@
        </plugins>
        </build>
          </profile>
+         
+         
           <profile>
 		  <id>smoke</id>
 		   <build>
