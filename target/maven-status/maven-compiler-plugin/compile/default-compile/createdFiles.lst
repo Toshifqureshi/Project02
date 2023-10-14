@@ -1,0 +1,15 @@
+com\ObjectRepository\OrganizationPage.class
+com\ObjectRepository\ContactInfoPage.class
+com\ObjectRepository\OrganizationInfoPage.class
+com\ObjectRepository\CreateOrganization01Page.class
+com\ObjectRepository\CreateOrganizationPage.class
+com\GenericUtility\CommonFilePath.class
+com\GenericUtility\WebDriverUtility.class
+com\GenericUtility\ExcelUtility.class
+com\GenericUtility\PropertyFileUtility.class
+com\ObjectRepository\HomePage.class
+com\ObjectRepository\ContactPage.class
+com\ObjectRepository\CreateContactPage.class
+com\ObjectRepository\LoginPage.class
+com\GenericUtility\JavaUtility.class
+com\GenericUtility\BaseClass.class
